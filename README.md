@@ -1,3 +1,10 @@
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/promising_telecom_tariff/blob/main/Girya_promising_telecom_tariff.ipynb)**
+
+---
+
 # Определение перспективного тарифа для телеком-компании
 
 ---
@@ -57,5 +64,10 @@
     * средняя выручка пользователей тарифов «Ультра» и «Смарт» различаются
     * средняя выручка пользователей из Москвы отличается от выручки пользователей из других регионов
 6. Формирование общего вывода
+
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/promising_telecom_tariff/blob/main/Girya_promising_telecom_tariff.ipynb)**
 
 ---
