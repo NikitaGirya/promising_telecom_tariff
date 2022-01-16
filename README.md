@@ -7,6 +7,8 @@
 
 # Определение перспективного тарифа для телеком-компании
 
+`pandas`  `numpy`  `scipy`  `matplotlib`  `seaborn`
+
 ---
 
 <p align="center">
